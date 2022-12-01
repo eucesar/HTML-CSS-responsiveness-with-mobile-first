@@ -11,7 +11,7 @@
 ## Download
 
 ```sh
-git clone https://github.com/eucesar/First-contact-HTML-CSS.git
+https://github.com/eucesar/HTML-CSS-responsiveness-with-mobile-first.git
 ```
 
 ## Cesar
