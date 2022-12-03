@@ -73,6 +73,36 @@
     text-decoration: none;
 }
 
+ /*animação-de-botão*/
+ .botões__ancora:hover{
+    background: rgb(23, 54, 103);
+    font-size: larger;
+    transition: 1000ms;
+}
+
+.botões__ancora:active{
+   background: var(--vermelho);
+   transition: -1000s;
+}
+
+hr {
+    border-top: 1px dashed rgb(255, 174, 0);
+    border-bottom: 1px solid rgb(255, 174, 0);
+    color: #fff;
+    background-color: #fff;
+    height: 4px;
+}
+
+/*imagem-toque-e - tals*/
+.descrição__imagem{
+	opacity: 1;
+    transition: 400ms;
+    box-shadow: 5px 5px 5px 0 #5d5d5d;
+}
+.descrição__imagem:hover {
+    opacity: 0.7;
+}
+
 @media screen and (min-width: 1024px) {
     .carrossel__titulo {
         font-size: 26px;
