@@ -8,15 +8,18 @@
     padding: 1em 0 0.5em 0;
 }
 
+ /*cada iamgem vai ocupar seu espaço - n ficar uma em cima da outra*/
 .swiper-slide img {
     width: 100%;
 }
 
+ /*desativar setas*/
 .swiper-button-prev,
 .swiper-button-next {
     display: none;
 }
 
+/*posição das bolinhas*/
 .swiper-pagination {
     position: initial;
     margin: .5em 0;
