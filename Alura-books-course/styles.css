@@ -1,9 +1,11 @@
+@import url("styles/animacao-de-inicio.css");
 @import url("styles/header.css");
 @import url("styles/banner.css");
 @import url("styles/carrossel.css");
 @import url("styles/topicos.css");
 @import url("styles/contato.css");
 @import url("styles/rodapé.css");
+@import url("styles/mapa.css");
 
 :root {
     --cor-de-fundo: #EBECEE;
@@ -16,6 +18,7 @@
     --preto: #000000;
     --cinza: #474646;
     --cinza-claro: #858585;
+    --vermelho: red;
 }
 
 body {
