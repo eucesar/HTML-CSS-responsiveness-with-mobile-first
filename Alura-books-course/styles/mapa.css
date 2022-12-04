@@ -1,0 +1,10 @@
+.mapa {
+    padding: 0 0 20px 0 ;
+	background: var(--cor-de-fundo);
+    
+}
+
+.mapa-conteudo {
+	width: 940px;
+	margin: 0 auto;
+}
