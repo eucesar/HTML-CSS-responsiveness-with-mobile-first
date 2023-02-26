@@ -4,7 +4,7 @@
   <img align="center" alt="Cesar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </p>
 
-> 🌱📱 My first contact with sites made for a higher priority on mobile. I created the site using the Alura course.
+> 🌱 - My first contact with sites made for a higher priority on mobile. I created the site using the Alura course.
 
 
 ## Download
